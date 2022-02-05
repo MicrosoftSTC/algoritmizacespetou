@@ -1,5 +1,7 @@
 # Algoritmizace s Péťou
 
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/MicrosoftSTC/alogoritmizacespetou)
+
 Projekt je momentálně ve vývoji. Chceš se zapojit? Napiš mi petr.kucera@studentstc.cz.
 
 ## Description
