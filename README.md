@@ -14,7 +14,8 @@ Cílem projektu je se zlepšit v algoritmizačních úlohách pomocí praktický
 2. Vyber si algoritmizační úlohu.
     - každá úloha obsahuje veřejná data, zadání úkolu
 4. Vyřeš ji.
-5. Nahraj řešení, které se ti automaticky validuje pomocí GitHub Actions. (Aby řešení prošlo, musí vracet nejen správné výsledky, ale musí být i dostatečně rychlé.)
+5. Máš otázku? Nápad na zlepšení, pojď diskutovat!
+6. Nahraj řešení, které se ti automaticky validuje pomocí GitHub Actions. (Aby řešení prošlo, musí vracet nejen správné výsledky, ale musí být i dostatečně rychlé.)
 
 ## Validátor
 
