@@ -6,7 +6,7 @@ Projekt je momentálně ve vývoji. Chceš se zapojit? Napiš mi petr.kucera@stu
 
 ## Description
 
-Cílem projektu je se zlepšit v algoritmizačních úlohách pomocí praktických úloh.
+Cílem projektu je se zlepšit v algoritmizačních úlohách pomocí praktických úloh. Zadání jsou posbíraná z různých webů a univerzitních zadání.
 
 ## How it works
 
