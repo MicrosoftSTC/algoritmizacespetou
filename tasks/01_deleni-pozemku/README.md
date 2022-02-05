@@ -12,6 +12,9 @@ Dále je dán seznam obdélníkových tvarů požadovaných pozemků. Cílem je 
 
 Pokud je do mřížky umístěn obdélník o rozměru K × L, pak zakrývá obdélníkovou podoblast sestávající z K × L polí mřížky (nemůže však zakrývat podoblast L × K polí, jestliže L ≠ K, rotace obdélníku o 90° není povolena).
 
+![image](https://user-images.githubusercontent.com/45851215/152635875-1a555c9c-bed2-4fd3-9600-b96f8c225f20.png)
+
+
 ## Vstup
 
 Na prvním řádku jsou celá kladná čísla M a N oddělená mezerou. Číslo M je počet řádků čtvercové mřížky velkého pozemku, číslo N je počet jejích sloupců. Následuje M vstupních řádků, které reprezentují hodnoty polí mřížky po řádcích (všech M řádků tedy reprezentuje matici M × N). Čísla na řádcích jsou od sebe oddělená jednou či více mezerami. Další vstupní řadek obsahuje číslo T, které reprezentuje počet typů obdélníkových tvarů pozemků. Následuje T řádků, kde každý řadek reprezentuje jeden typ tvaru pomocí tří čísel K, L a P, kde K je výška (počet řádků) obdélníkového tvaru, L je jeho šířka (počet sloupců) a P je počet požadovaných pozemků daného tvaru (několik zájemců o pozemky může mít o tvaru stejnou představu). Čísla K, L a P splňují 1 ≤ K ≤ M, 1 ≤ L ≤ N a 1 ≤ P ≤ 12.
